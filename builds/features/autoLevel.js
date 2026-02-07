@@ -11,10 +11,11 @@ module.exports = {
 
             ["DEFAULT_LEVELING_FADE_HEIGHT", 20],
             ["NOZZLE_TO_PROBE_OFFSET", [-44, -6, 0]],
-            ["Z_MIN_POS", -5],
 
-            //M48 test
             "Z_MIN_PROBE_REPEATABILITY_TEST"
+        ],
+        override: [
+            ["Z_MIN_POS", -5]
         ],
         disable: [
             "Z_MIN_PROBE_USES_Z_MIN_ENDSTOP_PIN"
