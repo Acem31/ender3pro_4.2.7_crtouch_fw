@@ -10,7 +10,8 @@ module.exports = {
             "LCD_BED_LEVELING",
 
             ["DEFAULT_LEVELING_FADE_HEIGHT", 20],
-            ["NOZZLE_TO_PROBE_OFFSET", [0, 0, 0]],
+            ["NOZZLE_TO_PROBE_OFFSET", [-44, -6, 0]],
+            ["Z_MIN_POS", -5],
 
             //M48 test
             "Z_MIN_PROBE_REPEATABILITY_TEST"
