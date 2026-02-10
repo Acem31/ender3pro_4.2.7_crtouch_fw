@@ -1,22 +1,22 @@
 {
     "builds/autoLevel7x7Lin.js": {
-        "version": "5b71e64a77954133c0b6c49273b272964bfd6768",
+        "version": "59bcaca96b2b96b998c49ea9cd05ff01732c93f5",
         "md5": "d15504da5965066b82b28e2ffb6dc2a7",
-        "assetId": 353190678
+        "assetId": 353747125
     },
     "builds/base.js": {
-        "version": "5b71e64a77954133c0b6c49273b272964bfd6768",
+        "version": "59bcaca96b2b96b998c49ea9cd05ff01732c93f5",
         "md5": "7edac17cd4f1167b31cd86522abf2560",
-        "assetId": 353190680
+        "assetId": 353747131
     },
     "builds/baseLin.js": {
-        "version": "5b71e64a77954133c0b6c49273b272964bfd6768",
+        "version": "59bcaca96b2b96b998c49ea9cd05ff01732c93f5",
         "md5": "13cd2fea842dde15aa9b2cfc33616ec5",
-        "assetId": 353190682
+        "assetId": 353747140
     },
     "builds/default.js": {
-        "version": "5b71e64a77954133c0b6c49273b272964bfd6768",
+        "version": "59bcaca96b2b96b998c49ea9cd05ff01732c93f5",
         "md5": "7447dca1fa55d76dfae84ae4efc086ff",
-        "assetId": 353190683
+        "assetId": 353747157
     }
 }
